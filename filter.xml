@@ -13,8 +13,8 @@
 		<id>tag:mail.google.com,2008:filter:z0000001755426087406*7571227234170446196</id>
 		<updated>2025-08-17T21:44:27Z</updated>
 		<content></content>
-		<apps:property name='from' value='cbsalerts.sbi@alerts.sbi.co.in OR transactions@fi.money OR statements@axisbank.com OR canarabank@canarabank.com OR BankStatements@kotak.com OR bankalerts@kotak.com OR transactions@fi.money OR estatement@bankofbaroda.com OR noreply@bankofbaroda.co.in'/>
-		<apps:property name='label' value='bank'/>
+		<apps:property name='from' value=''/>
+	    <apps:property name='label' value='bank'/>
 		<apps:property name='shouldArchive' value='true'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
