@@ -18,9 +18,6 @@
 <apps:property name="sizeOperator" value="s_sl"/>
 <apps:property name="sizeUnit" value="s_smb"/>
 </entry>
-
-
-
 <entry>
 <category term="filter"/>
 <title>Mail Filter</title>
@@ -33,7 +30,6 @@
 <apps:property name="sizeOperator" value="s_sl"/>
 <apps:property name="sizeUnit" value="s_smb"/>
 </entry>
-
 <entry>
 <category term="filter"/>
 <title>Mail Filter</title>
@@ -46,10 +42,4 @@
 <apps:property name="sizeOperator" value="s_sl"/>
 <apps:property name="sizeUnit" value="s_smb"/>
 </entry>
-
-
-
-
-
-
 </feed>
